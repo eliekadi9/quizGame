@@ -14,6 +14,7 @@ The Multi-Sport Quiz Game is a Java Swing application that provides an interacti
 
 • A “Play Again” or “Home” option allows users to restart or choose a different sport.
 
+
 💡 Why This Project?
 
 • To apply and strengthen my Java Swing GUI development skills.
